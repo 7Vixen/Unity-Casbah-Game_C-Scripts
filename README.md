@@ -5,3 +5,7 @@ pirates. Armed with wit, courage, and her fists, she must infiltrate a pirate sh
 secrets, and confront a fearsome pirate captain to bring her father home.
 The game celebrates the history, architecture, and culture of Algiers, immersing players in the
 sights and sounds of the legendary Casbah.
+
+
+### NOTE
+certaone docier ou fichier seront supprimé au fure et a mesure quon avance il se pourait que utiliser une autre manièere de lanagé le code mais on peut commancé avec cette base deja :) 
